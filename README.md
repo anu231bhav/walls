@@ -8,4 +8,6 @@ You can also view my resume by scanning the QR code below or visiting this link:
 
 Thanks for your time!
 
+<img src="https://github.com/user-attachments/assets/e2a7dbef-fe6d-48a4-9b18-e9033965fac7" alt="adobe-express-qr-code" width="300" height="300">
+
 ![adobe-express-qr-code (1)](https://github.com/user-attachments/assets/e2a7dbef-fe6d-48a4-9b18-e9033965fac7)
