@@ -4,6 +4,8 @@ Hi there! I'm Anubhav Mor.
 
 You can view my **resume** by scanning the **QR code** above or visiting this link: [Anubhav Mor Resume](https://anubhavmor.github.io/docs/Anubhav_Mor_Resume.pdf).
 
+You can also connect with me on LinkedIn: [Anubhav Mor LinkedIn](https://www.linkedin.com/in/anubhavmor/).
+
 I'm excited to share my first public project, hosted on GitHub Pages. You can check it out here: [Project Link](https://anubhavmor.github.io/walls/).
 
 I'd love to hear your thoughts and suggestions!
